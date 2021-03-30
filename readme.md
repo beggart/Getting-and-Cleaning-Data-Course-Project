@@ -57,7 +57,7 @@ To perform the data analysis it is required to perform the following **steps**:
 
   After performing the analysis, the following files will be created:
 
-    - `tidyData.txt`
+    - `tidyData.txt` 
     
 
 * **Use data**: to read and use the data it is necessary to run the following command:
